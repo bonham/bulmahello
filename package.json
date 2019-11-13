@@ -10,6 +10,7 @@
   "repository": "git@github.com:bonham/bulmahello.git",
   "license": "ISC",
   "dependencies": {
-    "bulma": "^0.8.0"
+    "bulma": "^0.8.0",
+    "bulma-start": "0.0.3"
   }
 }
