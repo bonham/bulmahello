@@ -1,0 +1,15 @@
+{
+  "name": "bulmahello",
+  "version": "1.0.0",
+  "description": "Test Bulma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "repository": "git@github.com:bonham/bulmahello.git",
+  "license": "ISC",
+  "dependencies": {
+    "bulma": "^0.8.0"
+  }
+}
